@@ -1,3 +1,4 @@
 [submodule "mysub1"]
 	path = mysub1
 	url = https://github.com/LuongPV/Submodule.git
+	branch = mybranch
